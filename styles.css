@@ -1,0 +1,16 @@
+body{
+    background: #000000 ;
+
+}
+
+p{
+color: rgb(255, 255, 255);
+text-align: center;
+word-spacing: 20px;
+font-size: 300%;
+}
+.text{
+  color: aliceblue;
+  text-align: center;
+  font-size: 400%;
+}
